@@ -1,18 +1,18 @@
-# JavaScript
+# JSByExamples
 
-This repository contains various implementations, code snippets, and examples in the JavaScript programming language.
+Welcome to JSByExamples, a repository dedicated to providing examples and explanations for various concepts and features in JavaScript.
 
 ## Contents
 
 - [Introduction](#introduction)
 - [Technologies](#technologies)
-- [Getting Started](#getting-started)
+- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
 
-Explore this repository to find JavaScript code for solving algorithms and data structures, creating web applications, building tools and utilities, and more. Discover implementations of various algorithms and data structures, along with code snippets for solving coding challenges and creating reusable code. The repository also includes examples of best practices and coding standards for JavaScript programming.
+JSByExamples is a collection of code examples and explanations designed to help you learn JavaScript. Whether you're a beginner just starting out or an experienced developer looking to expand your knowledge, this repository has something for everyone.
 
 ## Technologies
 
@@ -20,13 +20,19 @@ The project uses the following technologies:
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - High-level programming language often used for web development.
 
-## Getting Started
+## Examples
 
-To explore the JavaScript implementations, simply navigate to the relevant folder and open the code files. The code snippets and examples can also be found in the relevant folders.
+Explore the `examples` directory to find code snippets and explanations for various concepts and features in JavaScript. Each example is accompanied by detailed comments and explanations to help you understand how it works.
+
+Some of the examples currently included in this repository are:
+
+- [Using Promises for Asynchronous Operations](examples/promises.js)
+- [Creating a Simple HTTP Server with Node.js](examples/http-server.js)
+- [Implementing a Binary Search Algorithm](examples/binary-search.js)
 
 ## Contributing
 
-We welcome contributions from the community. If you have an implementation or example to share, please fork this repository and create a pull request with your changes. Please ensure that your code follows the existing code style and is well-documented.
+We welcome contributions from the community. If you have an example or concept to share, please fork this repository and create a pull request with your changes. Please ensure that your code follows the existing code style and is well-documented.
 
 ## License
 
